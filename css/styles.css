@@ -1,0 +1,61 @@
+body {
+     color: rgb(49, 58, 69);
+     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     margin: 5px;
+}
+h1, h2 {
+   text-align:center;
+}
+
+h1 {
+   font-size: 400px;
+
+}
+img {
+   display: flow-root;
+   padding: 60px;
+   margin: 0 auto;
+   border-radius: 50cm;
+
+}
+ol {
+   list-style: none;
+   padding: 0;
+}
+ol {
+   list-style: none;
+   padding: 0;
+   margin-bottom: 10%;
+   font-size: 3em;
+   display: flex;
+   justify-content: space-evenly;
+}
+p {
+   font-size: 50px;
+
+}
+#mjSeznam {
+   list-style: square;
+   padding: 0;
+   font-size: 3em;
+}
+li.item {
+   padding: 2em;
+}
+.kocka {
+   color: rebeccapurple;
+}
+.kralik {
+   color: green;
+}
+.pes {
+   color: blue;
+}
+li {
+   margin: 0 20px;
+   transition: 0.6s ease;
+}
+li:hover  {
+   font-size: 1.2em;
+   transition: 0.6s ease;
+} 
